@@ -1,0 +1,15 @@
+- future: là 1 cái chuẩn hóa của foward
+- foward
+- 0ption -> call || put
+- Swap
+
+BASIS
+btvn: nghiên cứu:	+ ROE
+			+ ROA
+			+ Revenue
+			+ Net profit margin 
+			+ Gross profit margin
+			+ total delt/total asset
+
+OCO 	+ limit -> active
+	+ stop -> canceled
